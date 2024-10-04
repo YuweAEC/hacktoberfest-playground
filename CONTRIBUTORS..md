@@ -12,11 +12,11 @@ To add yourself to the list below, please:
 
 ## Contributors List
 
-| Name                    | GitHub Profile                                    | Contributions                             |
-| ----------------------- | ------------------------------------------------- | ----------------------------------------- |
-| Deepansh Vishwakarma    | [codebydeep](https://github.com/codebydeep)       | Added documentation for fixed issues      |
-| Your Name               | [Username](https://github.com/username)           | Fixed bug in login feature                |
-| Your Name               | [Username](https://github.com/username)           | Added documentation for fixed issues      |
+| Name                    | GitHub Profile                                    | Contributions                                   |
+| ----------------------- | ------------------------------------------------- | ----------------------------------------------- |
+| Deepansh Vishwakarma    | [codebydeep](https://github.com/codebydeep)       | Added a CONTRIBUTORS.md file in the repository  |
+| Your Name               | [Username](https://github.com/username)           | Fixed bug in login feature                      |
+| Your Name               | [Username](https://github.com/username)           | Added documentation for fixed issues            |
 
 
 Thank! you for contributing to Hacktoberfest 2024! Your support and collaboration make open source better.
