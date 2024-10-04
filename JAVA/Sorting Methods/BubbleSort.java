@@ -1,8 +1,4 @@
-package ASSIGNMENTS;
-
-
-
-	import java.util.Scanner;
+import java.util.Scanner;
 
 	public class BubbleSort {
 
