@@ -80,7 +80,7 @@ The following tags help you find issues to contribute to:
 If you have questions or want to discuss new ideas:
 - **Open an issue** in this repository.
 - **Join the Discussions** tab on GitHub.
-- You can also join our [Slack/Discord](#) channel.
+- You can also join our [Discord](https://discord.gg/KY7s2dpF) channel.
 
 ## 🔥 What is Hacktoberfest?
 
