@@ -6,6 +6,7 @@ class Animal {
     }
 }
 
+
 // Dog class inherits from Animal class
 class Dog extends Animal {
     // Dog class has its own method

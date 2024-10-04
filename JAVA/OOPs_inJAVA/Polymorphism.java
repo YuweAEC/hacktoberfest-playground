@@ -6,6 +6,7 @@ class Bird {
     }
 }
 
+
 // Parrot class overrides the sound() method of the Bird class
 class Parrot extends Bird {
     @Override

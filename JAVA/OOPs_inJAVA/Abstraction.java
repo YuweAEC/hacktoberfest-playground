@@ -3,6 +3,7 @@ abstract class Vehicle {
     // Abstract method (does not have a body)
     public abstract void start();
 
+    
     // Regular method
     public void fuel() {
         System.out.println("Vehicle needs fuel.");
