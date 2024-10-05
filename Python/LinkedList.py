@@ -29,15 +29,13 @@ class LinkedList:
 
     def delete_node(self, key):
         current = self.head
-        
-        # If head node itself holds the key
+
         if current is not None:
             if current.data == key:
                 self.head = current.next  # Changed head
                 current = None
                 return
 
-        # Search for the key to be deleted
         prev = None
         while current is not None:
             if current.data == key:
@@ -45,7 +43,6 @@ class LinkedList:
             prev = current
             current = current.next
 
-        # If key was not present in linked list
         if current is None:
             print(f"Node with data {key} not found.")
             return
