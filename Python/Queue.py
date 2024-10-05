@@ -20,7 +20,7 @@ class Queue:
 def main():
     queue = Queue()
     while True:
-        print("\n<---Queue Operations--->:")
+        print("\nMenu:")
         print("1. Enqueue an item into the queue")
         print("2. Dequeue an item from the queue")
         print("3. Check if the queue is empty")
@@ -54,3 +54,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
