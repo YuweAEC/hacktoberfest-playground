@@ -48,10 +48,10 @@ def main():
             else:
                 print("The stack is not empty.")
         elif choice == '5':
-            print("Exiting the program......Bye!!")
+            print("Exiting the program....")
             break
         else:
-            print("Oops! Wrong choice..Please try again...")
+            print("Oops! Wrong choice..Please try again!")
 
 if __name__ == "__main__":
     main()
