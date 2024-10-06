@@ -1,0 +1,3 @@
+[submodule "AlexNet-Implementation-using-PyTorch"]
+	path = AlexNet-Implementation-using-PyTorch
+	url = https://github.com/twinkle485/AlexNet-Implementation-using-PyTorch.git
