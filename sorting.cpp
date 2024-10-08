@@ -104,6 +104,16 @@ void sort (int array[], int beg, int end) {
 		merge (array, beg, mid, end);
 	}
 }
+// ----Quick Sort  O(nlogn)
+
+
+// This function rearranges the elements in the array such that all elements smaller than the 
+// chosen pivot (the last element) are placed on the left, and all elements greater than the pivot
+//  are placed on the right. It then returns the final position of the pivot.
+
+// Sort Function: This is the recursive function that applies the partitioning repeatedly. After
+//  partitioning, it recursively sorts the subarrays on the left and right of the pivot.
+
 
 int partition (int array[], int start, int end) {
 	int pivot = array[end];
