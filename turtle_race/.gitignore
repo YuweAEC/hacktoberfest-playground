@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# MacOS specific files
+.DS_Store
+
+# Output files or folders
+outputs/
+
+# Images
+*.png
+*.jpg
+*.gif
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Ignore Python wheel files
+*.whl
+
+# Ignore pipenv files
+Pipfile.lock
+
+# Python virtual environment specific files
+*.env
+*.virtualenv
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# PyCharm settings (if you're using PyCharm)
+.idea/
