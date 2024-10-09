@@ -15,7 +15,7 @@ To add yourself to the list below, please:
 | Name                    | GitHub Profile                                    | Contributions                                   |
 | ----------------------- | ------------------------------------------------- | ----------------------------------------------- |
 | Deepansh Vishwakarma    | [codebydeep](https://github.com/codebydeep)       | Added a CONTRIBUTORS.md file in the repository  |
-| Your Name               | [Username](https://github.com/username)           | Fixed bug in login feature                      |
+| Saumya Yadav            | [saumyayadav25](https://github.com/saumyayadav25) | Added CPP Pattern Codes.                        |
 | Your Name               | [Username](https://github.com/username)           | Added documentation for fixed issues            |
 
 
